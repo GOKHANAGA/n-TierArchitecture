@@ -1,0 +1,10 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindDAL(Data Access Layer)\bin\Debug\NorthwindDAL(Data Access Layer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindDAL(Data Access Layer)\bin\Debug\NorthwindDAL(Data Access Layer).pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindDAL(Data Access Layer)\obj\Debug\NorthwindDAL(Data Access Layer).csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindDAL(Data Access Layer)\obj\Debug\NorthwindDAL(Data Access Layer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindDAL(Data Access Layer)\obj\Debug\NorthwindDAL(Data Access Layer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindDAL(Data Access Layer)\bin\Debug\NorthwindDAL(Data Access Layer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindDAL(Data Access Layer)\bin\Debug\NorthwindDAL(Data Access Layer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindDAL(Data Access Layer)\obj\Debug\NorthwindDAL(Data Access Layer).csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindDAL(Data Access Layer)\obj\Debug\NorthwindDAL(Data Access Layer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindDAL(Data Access Layer)\obj\Debug\NorthwindDAL(Data Access Layer).pdb

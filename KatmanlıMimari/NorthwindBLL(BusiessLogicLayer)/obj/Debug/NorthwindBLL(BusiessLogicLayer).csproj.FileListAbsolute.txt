@@ -1,0 +1,14 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindBLL(BusiessLogicLayer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindBLL(BusiessLogicLayer).pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindDAL(Data Access Layer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindDAL(Data Access Layer).pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\obj\Debug\NorthwindBLL(BusiessLogicLayer).csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\obj\Debug\NorthwindBLL(BusiessLogicLayer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\obj\Debug\NorthwindBLL(BusiessLogicLayer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindBLL(BusiessLogicLayer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindBLL(BusiessLogicLayer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindDAL(Data Access Layer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\bin\Debug\NorthwindDAL(Data Access Layer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\obj\Debug\NorthwindBLL(BusiessLogicLayer).csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\obj\Debug\NorthwindBLL(BusiessLogicLayer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindBLL(BusiessLogicLayer)\obj\Debug\NorthwindBLL(BusiessLogicLayer).pdb

@@ -1,0 +1,20 @@
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindUI.dll.config
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindUI.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindUI.pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindBLL(BusiessLogicLayer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindDAL(Data Access Layer).dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindBLL(BusiessLogicLayer).pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\bin\NorthwindDAL(Data Access Layer).pdb
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\obj\Debug\NorthwindUI.csprojResolveAssemblyReference.cache
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\obj\Debug\NorthwindUI.dll
+C:\Users\nbuy_ogrenci\Desktop\VSProjects\KatmanlıMimari\NorthwindUI\obj\Debug\NorthwindUI.pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindUI.dll.config
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindUI.dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindUI.pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindBLL(BusiessLogicLayer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindDAL(Data Access Layer).dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindBLL(BusiessLogicLayer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\bin\NorthwindDAL(Data Access Layer).pdb
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\obj\Debug\NorthwindUI.csprojResolveAssemblyReference.cache
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\obj\Debug\NorthwindUI.dll
+C:\Users\Gökhan\Desktop\KatmanlıMimari\NorthwindUI\obj\Debug\NorthwindUI.pdb
